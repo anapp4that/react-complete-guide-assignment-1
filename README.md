@@ -1,1 +1,3 @@
-This is the completed Assignment one from the Udemy React Complete Guide
+Following the React Complete Guide from Udemy
+
+https://www.udemy.com/react-the-complete-guide-incl-redux/
